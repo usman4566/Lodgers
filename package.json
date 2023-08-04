@@ -1,0 +1,68 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.7.0",
+    "@emailjs/browser": "^3.10.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@kommunicate/kommunicate-chatbot-plugin": "^0.0.5",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.4",
+    "@orange_digital/chakra-datepicker": "^1.0.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.2.1",
+    "chakra-ui-simple-autocomplete": "^2.2.0",
+    "chart.js": "^4.3.0",
+    "email-js": "^2.0.2",
+    "framer-motion": "^7.10.3",
+    "google-map-react": "^2.2.0",
+    "google-maps-react": "^2.0.6",
+    "google-maps-react-markers": "^1.2.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-datalist-input": "^3.2.1",
+    "react-dom": "^18.2.0",
+    "react-geolocated": "^4.0.3",
+    "react-icons": "^4.7.1",
+    "react-mapbox-autocomplete": "^0.2.3",
+    "react-places-autocomplete": "^7.3.0",
+    "react-responsive-list": "^0.0.4",
+    "react-router-dom": "^6.4.5",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "react-stripe-checkout": "^2.6.3",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "homepage": "."
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

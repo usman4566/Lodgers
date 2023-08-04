@@ -1,0 +1,115 @@
+{
+  "authentication": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "mobile": "9784541446",
+      "name": "Jagro",
+      "email": "jagroshansingh615@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ITC Maurya",
+      "location": "Antartica",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/10000/3800/3793/17600cec_b.jpg",
+      "amenities": [
+        "Pool",
+        "Hot tub",
+        "Parking included"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    },
+    {
+      "id": 5,
+      "name": "ITC Maurya",
+      "location": "Shara Desert",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/10000/3800/3793/17600cec_b.jpg",
+      "amenities": [
+        "Pool",
+        "Hot tub",
+        "Parking included"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    },
+    {
+      "id": 2,
+      "name": "Radisson Blu Plaza",
+      "location": "Amazon5",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/64515cdf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "amenities": [
+        "Pool",
+        "Hot tub"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    },
+    {
+      "id": 3,
+      "name": "Radisson Blu Plaza",
+      "location": "Mt.Everst",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/64515cdf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "amenities": [
+        "Pool",
+        "Hot tub"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    },
+    {
+      "id": 6,
+      "name": "Radisson Blu Plaza",
+      "location": "Shara Desert",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/64515cdf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "amenities": [
+        "Pool",
+        "Hot tub"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    },
+    {
+      "id": 4,
+      "name": "Rambagh Palace",
+      "location": "Shara Desert",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://images.trvl-media.com/hotels/1000000/530000/526400/526331/9f98c9fd.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "amenities": [
+        "Pool",
+        "Hot tub",
+        "Free WiFi",
+        "Spa",
+        "Restaurant",
+        "Air conditioning"
+      ],
+      "price": "2300",
+      "rating": "9.6"
+    },
+    {
+      "id": 7,
+      "name": "Radisson Blu Plaza",
+      "location": "Goa",
+      "place": "488-D, Pha D-type, g11/3, Main Ibn-e-Sina Road, Islamabad",
+      "image": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/64515cdf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "amenities": [
+        "Pool",
+        "Hot tub"
+      ],
+      "price": "1800",
+      "rating": "8.8"
+    }
+  ]
+}
